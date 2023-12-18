@@ -1,7 +1,7 @@
 const AboutUs = () => {
   return (
     <div className=" contenedor">
-      <h1>AboutUs</h1>
+      <h1 className="bg-green-500 inline-block ">AboutUs</h1>
       <p>
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam nihil
         esse aliquid accusantium iure sapiente, alias dolor ipsum magni
